@@ -5,3 +5,4 @@ let userYear = 25;
 
 console.log(typeof userYear);
 
+console.log("asd" === "asd") // Сравнивать исключительно через тройной знак равенства
